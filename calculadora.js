@@ -63,7 +63,7 @@ function findRoute() {
             
 
             // Volta
-            var totalValorVolta = (distancia * valorKM) * 1.9;
+            var totalValorVolta = (distancia * valorKM) * 2.1;
 
             if (distancia <= 19.9) {
                 mensagem.style.display = 'block';
